@@ -1,0 +1,6 @@
+{
+  "name": "Quran Reels Studio",
+  "description": "تطبيق صانع ريلز وفيديوهات القرآن الكريم - استوديو متكامل لتصميم الآيات مع التلاوات والخلفيات المتحركة والمشاركة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

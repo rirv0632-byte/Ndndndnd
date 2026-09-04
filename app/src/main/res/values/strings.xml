@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Quran Reels Studio</string>
+    <string name="app_name_ar">صانع ريلز القرآن</string>
+    <string name="studio_title">استوديو ريلز القرآن</string>
+    <string name="select_surah">اختر السورة</string>
+    <string name="select_ayah_range">نطاق الآيات</string>
+    <string name="from_ayah">من آية</string>
+    <string name="to_ayah">إلى آية</string>
+    <string name="select_reciter">اختر القارئ</string>
+    <string name="background_theme">الخلفية والمؤثرات</string>
+    <string name="aspect_ratio">الأبعاد والمقاس</string>
+    <string name="text_style">تنسيق النص والخط</string>
+    <string name="play">تشغيل</string>
+    <string name="pause">إيقاف مؤقت</string>
+    <string name="export_reel">تصدير / مشاركة</string>
+    <string name="save_project">حفظ في مشاريعي</string>
+    <string name="saved_projects">مشاريعي المحفوظة</string>
+    <string name="quran_browser">تصفح المصحف</string>
+</resources>
